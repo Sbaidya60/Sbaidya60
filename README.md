@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Sonia a full-time frontend developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">Full-time frontend developer 👨‍💻 working remotely since 2022 🚀</div>  
+
+I'm Sonia Baidya, currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Web Development enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.  
   
 
 - 🔭 I’m currently doing my [engineering](https://github.com/rishavanand/github-profilinator)  
@@ -18,7 +20,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-I'm Sonia Baidya, currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Web Development enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.  
+
   
 
 <br/>  
