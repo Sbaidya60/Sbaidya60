@@ -130,4 +130,4 @@ I'm <a href="https://sonia-devfolio.netlify.app/">Sonia Baidya</a>, currently pu
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
