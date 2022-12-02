@@ -128,4 +128,3 @@ I'm Sonia Baidya, currently pursuing my B.Tech degree in Computer Science & Engi
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
