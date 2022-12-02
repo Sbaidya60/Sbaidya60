@@ -5,7 +5,7 @@
 
 ### <div align="center">Full-time frontend developer 👨‍💻 working remotely since 2022 🚀</div>  
 
-I'm Sonia Baidya, currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Web Development enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.  
+I'm <a href="[https://www.w3schools.com](https://sonia-devfolio.netlify.app/)">Sonia Baidya</a>, currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Web Development enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.  
   
 
 - 🔭 I’m currently doing my [engineering](https://github.com/rishavanand/github-profilinator)  
