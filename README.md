@@ -29,7 +29,7 @@
 <br/>  
 
 
-## Rapidfire  
+##💫 About Me: 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Portfolio Website](https://sonia-devfolio.netlify.app/)  
@@ -126,4 +126,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
