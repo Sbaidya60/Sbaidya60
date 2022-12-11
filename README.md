@@ -29,7 +29,7 @@
 <br/>  
 
 
-##💫 About Me: 
+##  💫 About Me: 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Portfolio Website](https://sonia-devfolio.netlify.app/)  
